@@ -25,6 +25,8 @@ gem 'dotenv-rails', groups: [:development, :test]
 #active record serializer
 gem 'active_model_serializers', '~> 0.10.0'
 
+gem 'faker'
+
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
