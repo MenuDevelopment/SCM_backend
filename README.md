@@ -1,24 +1,8 @@
-# README
+## Read Me
+This is the backend implementation of the store credit manager project.
+It persist information about clients and their store credit and serves it to
+the front end as JSON information.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##Technoglogies
+JWT authentication
+RAILS Api mode server
